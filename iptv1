@@ -1,164 +1,40 @@
-#EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",92 NEWS HD
-http://bazarhd.online:80/307210113622/307210113622/84102?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News
-https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Undefined",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",A PLUS
-http://bazarhd.online:80/307210113622/307210113622/84094?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AAJ NEWS
-http://bazarhd.online:80/307210113622/307210113622/84089?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ABBTAKK NEWS
-http://bazarhd.online:80/307210113622/307210113622/84068?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY DIGITAL
-http://bazarhd.online:80/307210113622/307210113622/84109?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY MUSIK
-http://bazarhd.online:80/307210113622/307210113622/84025?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY NEWS
-http://bazarhd.online:80/307210113622/307210113622/84108?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY QTV
-http://bazarhd.online:80/307210113622/307210113622/84048?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="Undefined",AVT KHYBER
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="Undefined",AVT KHYBER
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AVT KHYBER
-http://bazarhd.online:80/307210113622/307210113622/84070?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",BOL ENTERTAINMENT HD
-http://bazarhd.online:80/307210113622/307210113622/84038?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",BOL NEWS UHD
-http://bazarhd.online:80/307210113622/307210113622/84088?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",CA | TAG TV,TAG TV,Tag TV (Opt-1)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CARTOON NETWORK
-http://bazarhd.online:80/307210113622/307210113622/84053?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CHANNEL 24 HD
-http://bazarhd.online:80/307210113622/307210113622/84072?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CITY 41
-http://bazarhd.online:80/307210113622/307210113622/84082?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CITY 42
-http://bazarhd.online:80/307210113622/307210113622/84081?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DAWN NEWS
-http://bazarhd.online:80/307210113622/307210113622/84087?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG ACTION HD
-http://bazarhd.online:80/307210113622/307210113622/84016?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG HITS HD
-http://bazarhd.online:80/307210113622/307210113622/84020?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG MOVIES HD
-http://bazarhd.online:80/307210113622/307210113622/84018?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG MUSIC HD
-http://bazarhd.online:80/307210113622/307210113622/84026?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG SHOPPING HD
-http://bazarhd.online:80/307210113622/307210113622/84021?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Undefined",Dunya News
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="News",Dunya News
-https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",EXPRESS ENTERTAINMENT
-http://bazarhd.online:80/307210113622/307210113622/84098?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="Undefined",Eawaz TV (CA)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="Undefined",Eye 95 America (US)
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",FILMAX
-http://bazarhd.online:80/307210113622/307210113622/84013?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",FILMWORLD
-http://bazarhd.online:80/307210113622/307210113622/84015?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",GEO ENTERTAINMENT
-http://bazarhd.online:80/307210113622/307210113622/84090?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",GEO KAHANI
-http://bazarhd.online:80/307210113622/307210113622/84091?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",GEO SUPER
-http://bazarhd.online:80/307210113622/307210113622/84028?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",GEO TEZZ
-http://bazarhd.online:80/307210113622/307210113622/84060?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",HUM MASALA TV
-http://bazarhd.online:80/307210113622/307210113622/84103?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",HUM NEWS HD
-http://bazarhd.online:80/307210113622/307210113622/84106?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",HUM TV HD
-http://bazarhd.online:80/307210113622/307210113622/84105?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",JALWA MUSIC
-http://bazarhd.online:80/307210113622/307210113622/84024?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",KARBALA TV
-http://bazarhd.online:80/307210113622/307210113622/84041?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",KASHISH
-http://bazarhd.online:80/307210113622/307210113622/84042?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",KAY-2
-http://bazarhd.online:80/307210113622/307210113622/84004?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",KHYBER NEWS
-http://bazarhd.online:80/307210113622/307210113622/84078?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",KIDS ZONE+ HD
-http://bazarhd.online:80/307210113622/307210113622/84051?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",KOHINOOR NEWS
-http://bazarhd.online:80/307210113622/307210113622/84073?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Hw94SaM.jpg" group-title="Undefined",Kay 2,Kay2 TV,PK | Kay 2
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Undefined",Kay 2
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="Undefined",Kay2 TV
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="Undefined",Khyber Middle East
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="Undefined",Khyber Middle East TV
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="Undefined",Khyber News
-http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/NL1cqS2.png" group-title="News;Undefined",Khyber News TV
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",LAHORE NEWS HD
-http://bazarhd.online:80/307210113622/307210113622/84065?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",LAHROE RANG HD
-http://bazarhd.online:80/307210113622/307210113622/84061?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="Undefined",Lahore News (Opt-2)
-http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",MADNI TV
-http://bazarhd.online:80/307210113622/307210113622/84043?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/m8cS74j.png" group-title="Undefined",Minhaj TV
-http://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/m8cS74j.png" group-title="Undefined",Minhaj TV
-https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",NEWS ONE
-http://bazarhd.online:80/307210113622/307210113622/84067?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",PAIGAM URDU
-http://bazarhd.online:80/307210113622/307210113622/84011?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",PEACE TV URDU
-http://bazarhd.online:80/307210113622/307210113622/84045?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",PLAY TV
-http://bazarhd.online:80/307210113622/307210113622/84008?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",POP+
-http://bazarhd.online:80/307210113622/307210113622/84052?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",PTV BOLAN
-http://bazarhd.online:80/307210113622/307210113622/84035?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",PTV GLOBAL
-http://bazarhd.online:80/307210113622/307210113622/84064?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",PTV HOME
-http://bazarhd.online:80/307210113622/307210113622/84034?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Sport",PTV SPORTS HD
-http://bazarhd.online:80/307210113622/307210113622/84030?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",PTV WORLD
-http://bazarhd.online:80/307210113622/307210113622/84033?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",RAAVI
-http://bazarhd.online:80/307210113622/307210113622/84006?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ROYAL NEWS
-http://bazarhd.online:80/307210113622/307210113622/84074?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",SAUDI QURAN
-http://bazarhd.online:80/307210113622/307210113622/84047?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",SAUDI SUNNAH
-http://bazarhd.online:80/307210113622/307210113622/84046?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",SINDH ENTERTAINMENT
-http://bazarhd.online:80/307210113622/307210113622/84037?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IN;PK" tvg-logo="" group-title="Undefined",Subrang TV,Subrang TV (USA)
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="Undefined",Subrang TV (US) (Opt-2)
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Undefined",Tag TV (Opt-2)
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",WASEEB TV
-http://bazarhd.online:80/307210113622/307210113622/84007?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:hlscat.com
+https://list.iptvcat.com/my_list/s/7d0fdbea6dc6c5a72e45b8756a95b713.m3u8
+https://list.iptvcat.com/my_list/s/2ff4c8d39f836257529ccc968c4f3f76.m3u8
+https://list.iptvcat.com/my_list/s/acb62ae55a987669b6ad4a4ec2087b78.m3u8
+https://list.iptvcat.com/my_list/s/eeb70fc97e6dc082eb533f7046ea2760.m3u8
+https://list.iptvcat.com/my_list/s/1e05d6741ce1e9408f8f990f77f39f92.m3u8
+https://list.iptvcat.com/my_list/s/7e68fe6f93eccae2c84861e4559b684e.m3u8
+https://list.iptvcat.com/my_list/s/c38a3895641c587ba5e62145304c5465.m3u8
+https://list.iptvcat.com/my_list/s/6fbfc92b3a75a872925efd8d0fbf7400.m3u8
+https://list.iptvcat.com/my_list/s/63f38413aacbf1216b4e8160fa292219.m3u8
+https://list.iptvcat.com/my_list/s/96c4276945c8411429e9e4a34678850c.m3u8
+https://list.iptvcat.com/my_list/s/2cba5d04aa85db7f63e4d7c424c7b476.m3u8
+https://list.iptvcat.com/my_list/s/8770b0168b22555c0af3fe320c2b37bc.m3u8
+https://list.iptvcat.com/my_list/s/dcfcaecf7d44460a4617cbe58aac216e.m3u8
+https://list.iptvcat.com/my_list/s/f355fe3407877cfe7014537e98c084aa.m3u8
+https://list.iptvcat.com/my_list/s/1c6a2bfde0f21e2d4aa872f66662e327.m3u8
+https://list.iptvcat.com/my_list/s/b613b3c71a049d88293a75aa6bbbcbab.m3u8
+https://list.iptvcat.com/my_list/s/596eff042023201cc3f20ec64078028e.m3u8
+https://list.iptvcat.com/my_list/s/a736aa684f4c663b5e6a6aa7a3eb9d90.m3u8
+https://list.iptvcat.com/my_list/s/0be2bd7d848c099516306ffc6cfcf086.m3u8
+https://list.iptvcat.com/my_list/s/7b0bcce99306ec8c57683635bc789aa0.m3u8
+https://list.iptvcat.com/my_list/s/01655bc5573faf5d1f365e123503ff21.m3u8
+https://list.iptvcat.com/my_list/s/ca79a305212d4430ad42cd1f762df853.m3u8
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w1897152655.m3u8
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream2/chunks.m3u8
+https://youtu.be/atgjfq8hcqA
+https://youtu.be/38IEolI8f-w
+https://youtu.be/HrrpR7zjFpU
+https://youtu.be/oGFCM-szK-U
+https://youtu.be/9Auq9mYxFEE
+https://youtu.be/_u_fOQRoM5o
+https://youtu.be/R6UoX-5eBs0
+https://youtu.be/CvYRIWSMeEw
+https://youtu.be/W2ozTcuPHp8
+https://youtu.be/NiP2tVc5yk8
+https://youtu.be/jKWsY1tt8qw
+https://youtu.be/TVdPu8s7I5A
+https://youtu.be/NxSU6fcQmPs
+https://youtu.be/4GCH7_Gj0ro
